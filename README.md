@@ -12,4 +12,4 @@ Look for the text in the id part of the query string:
 com.smartthings.android
 
 Host the html file somewhere (it's plain HTML with no dependencies so any simple hosting will do), then use the link (where mywebhost.com is your chosen host):
-https://mywebhost.com/fullyLoader.html?package=com.smartthings.android
+https://mywebhost.com/fullyLauncher.html?package=com.smartthings.android
